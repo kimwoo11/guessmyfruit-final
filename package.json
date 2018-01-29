@@ -1,0 +1,11 @@
+{
+  "name": "alexa-skill-kit-sdk-factskill",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "alexa-sdk": "^1.0.10",
+    "json-query": "^2.2.2",
+    "readline-sync": "^1.4.7",
+    "underscore": "^1.8.3"
+  }
+}
